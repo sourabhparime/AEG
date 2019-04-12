@@ -4,4 +4,4 @@
 <ol> Spell check </ol>
 <ol> Verb usage </ol>
 <ol> Relavance </ol>
-<ol> and other feaures </ol>
+<ol> and other features </ol>
